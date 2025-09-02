@@ -8,19 +8,23 @@
   
 - name: Call for Papers
   link: cfp.html
-  status: enabled
+  status: disabled
   
+- name: Past Calls
+  link: pastcalls.html
+  status: enabled
+
 - name: Authors
   link: authors.html
   status: enabled
   
 - name: Call for Posters
   link: cfpst.html
-  status: enabled
+  status: disabled
   
 - name: Call for PhD Symposium
   link: cfphd.html
-  status: enabled
+  status: disabled
   
 - name: Call for Tutorials
   link: cft.html
@@ -32,11 +36,11 @@
   
 - name: Call for Demos
   link: cfd.html  
-  status: enabled
+  status: disabled
   
 - name: Registration
   link: registration.html
-  status: disabled
+  status: enabled
   
 - name: Virtual
   link: virtual.html
