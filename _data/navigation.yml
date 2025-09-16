@@ -48,7 +48,7 @@
   
 - name: Program
   link: program.html
-  status: disabled
+  status: enabled
   
 - name: Keynotes
   link: keynotes.html
